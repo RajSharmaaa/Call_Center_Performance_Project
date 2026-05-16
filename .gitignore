@@ -1,0 +1,15 @@
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# PowerPoint temporary files
+~$*.pptx
+~$*.ppt
+
+# Power BI temporary files
+*.pbix.tmp
+*.pbit.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
